@@ -6,6 +6,7 @@
   - [Folder Structure](#folder-structure)
   - [Summary](#summary)
   - [Data Collection Pipeline](#data-collection-pipeline)
+  - [Models](#models)
 
 ## Folder Structure
 ```
@@ -40,3 +41,7 @@ Calls the AWIS API to retrieve website metrics
 
 4. reverse-entity-mapping
 Prepares the mapping of entity for automated labelling of data
+
+## Models
+1. `spacy_models_old`: Model without negative training labels.
+2. `spacy_models`: Model with negative training labels.
