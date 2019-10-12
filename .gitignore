@@ -130,3 +130,6 @@ dwh.cfg
 
 # vscode
 .vscode
+
+# data
+*data
