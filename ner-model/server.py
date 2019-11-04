@@ -2,10 +2,12 @@ from typing import List
 from typing import Tuple
 
 from flask import Flask, request, jsonify
+from flask_cors import CORS
 import spacy
 import config
 
 app = Flask(__name__)
+CORS(app)
 
 @app.route('/ner', methods=['POST'])
 def get_ner_tags():
