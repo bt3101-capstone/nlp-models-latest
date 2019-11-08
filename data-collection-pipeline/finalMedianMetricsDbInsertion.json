@@ -1,0 +1,30 @@
+{
+    "medianDataAllBlogs": {
+        "threeMths": [
+            {
+                "name": "trafficRank",
+                "value": 899927
+            },
+            {
+                "name": "reachRank",
+                "value": 826718
+            },
+            {
+                "name": "reachPerMillion",
+                "value": 0.51
+            },
+            {
+                "name": "PageViewsPerMillion",
+                "value": 0.02
+            },
+            {
+                "name": "PageViewsRank",
+                "value": 1096781
+            },
+            {
+                "name": "PageViewsPerUser",
+                "value": 1.6
+            }
+        ]
+    }
+}

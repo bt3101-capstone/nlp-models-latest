@@ -1,0 +1,373 @@
+{
+    "medianLoadTimeAllBlogs": 2938.5,
+    "medianLoadTIme": [
+        {
+            "name": "loveandroad.com",
+            "medianLoadTime": 2266
+        },
+        {
+            "name": "laughtraveleat.com",
+            "medianLoadTime": 6593
+        },
+        {
+            "name": "littlegreybox.net",
+            "medianLoadTime": 7185
+        },
+        {
+            "name": "mitsueki.sg",
+            "medianLoadTime": 4872
+        },
+        {
+            "name": "thetravelintern.com",
+            "medianLoadTime": 3143
+        },
+        {
+            "name": "belaroundtheworld.com",
+            "medianLoadTime": 4548
+        },
+        {
+            "name": "2bearbear.com",
+            "medianLoadTime": 1880
+        },
+        {
+            "name": "flyhoneystars.com",
+            "medianLoadTime": 8781
+        },
+        {
+            "name": "wanderingearl.com",
+            "medianLoadTime": 2304
+        },
+        {
+            "name": "travelinspiration360.com",
+            "medianLoadTime": 8680
+        },
+        {
+            "name": "iwandered.net",
+            "medianLoadTime": 6277
+        },
+        {
+            "name": "wanderlex.com",
+            "medianLoadTime": 7452
+        },
+        {
+            "name": "cheekiemonkie.net",
+            "medianLoadTime": 4999
+        },
+        {
+            "name": "irene-travelogue.com",
+            "medianLoadTime": 2330
+        },
+        {
+            "name": "floraisabelle.com",
+            "medianLoadTime": 834
+        },
+        {
+            "name": "travelerfolio.com",
+            "medianLoadTime": 3609
+        },
+        {
+            "name": "wildjunket.com",
+            "medianLoadTime": 4900
+        },
+        {
+            "name": "sunriseodyssey.com",
+            "medianLoadTime": 5028
+        },
+        {
+            "name": "havehalalwilltravel.com",
+            "medianLoadTime": 2537
+        },
+        {
+            "name": "expertworldtravel.com",
+            "medianLoadTime": 956
+        },
+        {
+            "name": "scarletscribs.wordpress.com",
+            "medianLoadTime": 2531
+        },
+        {
+            "name": "createwithmom.com",
+            "medianLoadTime": 12460
+        },
+        {
+            "name": "justonewayticket.com",
+            "medianLoadTime": 6697
+        },
+        {
+            "name": "amatteroftaste.me",
+            "medianLoadTime": 7454
+        },
+        {
+            "name": "passportchop.com",
+            "medianLoadTime": 7426
+        },
+        {
+            "name": "livelaughtravel.net",
+            "medianLoadTime": 1574
+        },
+        {
+            "name": "detourista.com",
+            "medianLoadTime": 1498
+        },
+        {
+            "name": "singaporego.com",
+            "medianLoadTime": 1655
+        },
+        {
+            "name": "alvinology.com",
+            "medianLoadTime": 3467
+        },
+        {
+            "name": "ourlittlesmarties.com",
+            "medianLoadTime": 3949
+        },
+        {
+            "name": "aspirantsg.com",
+            "medianLoadTime": 7825
+        },
+        {
+            "name": "sparklette.net",
+            "medianLoadTime": 1689
+        },
+        {
+            "name": "lydiascapes.com",
+            "medianLoadTime": 2884
+        },
+        {
+            "name": "lifestinymiracles.com",
+            "medianLoadTime": 4008
+        },
+        {
+            "name": "thewackyduo.com",
+            "medianLoadTime": 1827
+        },
+        {
+            "name": "dereklow.co",
+            "medianLoadTime": 1094
+        },
+        {
+            "name": "bernardthetraveller.com",
+            "medianLoadTime": 2570
+        },
+        {
+            "name": "danflyingsolo.com",
+            "medianLoadTime": 4963
+        },
+        {
+            "name": "drewbinsky.com",
+            "medianLoadTime": 1503
+        },
+        {
+            "name": "uncorneredmarket.com",
+            "medianLoadTime": 3946
+        },
+        {
+            "name": "heynadine.com",
+            "medianLoadTime": 2349
+        },
+        {
+            "name": "travelsofadam.com",
+            "medianLoadTime": 2242
+        },
+        {
+            "name": "adventurouskate.com",
+            "medianLoadTime": 1955
+        },
+        {
+            "name": "breathedreamgo.com",
+            "medianLoadTime": 1192
+        },
+        {
+            "name": "mccooltravel.com",
+            "medianLoadTime": 2901
+        },
+        {
+            "name": "travel-made-simple.com",
+            "medianLoadTime": 3225
+        },
+        {
+            "name": "aliadventures.com",
+            "medianLoadTime": 5608
+        },
+        {
+            "name": "aroundtheworldl.com",
+            "medianLoadTime": 1673
+        },
+        {
+            "name": "melissackoh.com",
+            "medianLoadTime": 2812
+        },
+        {
+            "name": "misstamchiak.com",
+            "medianLoadTime": 2466
+        },
+        {
+            "name": "camemberu.com",
+            "medianLoadTime": 2211
+        },
+        {
+            "name": "passionpassport.com",
+            "medianLoadTime": 917
+        },
+        {
+            "name": "theshutterwhale.com",
+            "medianLoadTime": 2900
+        },
+        {
+            "name": "runawaybella.com",
+            "medianLoadTime": 4558
+        },
+        {
+            "name": "agirlandabaldtraveller.com",
+            "medianLoadTime": 2414
+        },
+        {
+            "name": "theoccasionaltraveller.com",
+            "medianLoadTime": 2054
+        },
+        {
+            "name": "facebook.com",
+            "medianLoadTime": 3693
+        },
+        {
+            "name": "nomadicmatt.com",
+            "medianLoadTime": 1990
+        },
+        {
+            "name": "livingthedreamrtw.com",
+            "medianLoadTime": 1752
+        },
+        {
+            "name": "legalnomads.com",
+            "medianLoadTime": 3090
+        },
+        {
+            "name": "roadsandkingdoms.com",
+            "medianLoadTime": 2287
+        },
+        {
+            "name": "ytravelblog.com",
+            "medianLoadTime": 2947
+        },
+        {
+            "name": "greenpearls.com",
+            "medianLoadTime": 2839
+        },
+        {
+            "name": "whywaittoseetheworld.com",
+            "medianLoadTime": 4742
+        },
+        {
+            "name": "joaoleitao.com",
+            "medianLoadTime": 1824
+        },
+        {
+            "name": "virtualwayfarer.com",
+            "medianLoadTime": 5236
+        },
+        {
+            "name": "theblondeabroad.com",
+            "medianLoadTime": 2930
+        },
+        {
+            "name": "bemytravelmuse.com",
+            "medianLoadTime": 2023
+        },
+        {
+            "name": "theintrepidguide.com",
+            "medianLoadTime": 7864
+        },
+        {
+            "name": "familyadventureproject.org",
+            "medianLoadTime": 1500
+        },
+        {
+            "name": "wanderlustchloe.com",
+            "medianLoadTime": 2175
+        },
+        {
+            "name": "bigworldsmallpockets.com",
+            "medianLoadTime": 2537
+        },
+        {
+            "name": "wesaidgotravel.com",
+            "medianLoadTime": 3073
+        },
+        {
+            "name": "zewanderingfrogs.com",
+            "medianLoadTime": 6059
+        },
+        {
+            "name": "gottakeepmovin.com",
+            "medianLoadTime": 3033
+        },
+        {
+            "name": "handluggageonly.co.uk",
+            "medianLoadTime": 3633
+        },
+        {
+            "name": "iamaileen.com",
+            "medianLoadTime": 4557
+        },
+        {
+            "name": "indianajo.com",
+            "medianLoadTime": 2977
+        },
+        {
+            "name": "theinsatiabletraveler.com",
+            "medianLoadTime": 4952
+        },
+        {
+            "name": "jessieonajourney.com",
+            "medianLoadTime": 4780
+        },
+        {
+            "name": "keepcalmandtravel.com",
+            "medianLoadTime": 4380
+        },
+        {
+            "name": "alittleadrift.com",
+            "medianLoadTime": 1356
+        },
+        {
+            "name": "localadventurer.com",
+            "medianLoadTime": 2749
+        },
+        {
+            "name": "marocmama.com",
+            "medianLoadTime": 2419
+        },
+        {
+            "name": "betsiworld.com",
+            "medianLoadTime": 2155
+        },
+        {
+            "name": "travelwiththesmile.com",
+            "medianLoadTime": 1797
+        },
+        {
+            "name": "travelbooksfood.com",
+            "medianLoadTime": 3624
+        },
+        {
+            "name": "taylorstracks.com",
+            "medianLoadTime": 3323
+        },
+        {
+            "name": "thetravellingchilli.com",
+            "medianLoadTime": 4791
+        },
+        {
+            "name": "silverbackpacker.com",
+            "medianLoadTime": 7376
+        },
+        {
+            "name": "theworldpursuit.com",
+            "medianLoadTime": 1818
+        },
+        {
+            "name": "cassidysadventures.com",
+            "medianLoadTime": 4265
+        }
+    ]
+}

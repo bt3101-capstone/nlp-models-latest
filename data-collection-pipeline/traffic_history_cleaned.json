@@ -1,0 +1,580 @@
+{
+    "Request": {
+        "Arguments": {
+            "Argument": [
+                {
+                    "Name": {
+                        "$": "start"
+                    },
+                    "Value": {
+                        "$": 20190801
+                    }
+                },
+                {
+                    "Name": {
+                        "$": "range"
+                    },
+                    "Value": {
+                        "$": 31
+                    }
+                },
+                {
+                    "Name": {
+                        "$": "url"
+                    },
+                    "Value": {
+                        "$": "www.loveandroad.com"
+                    }
+                },
+                {
+                    "Name": {
+                        "$": "responsegroup"
+                    },
+                    "Value": {
+                        "$": "History"
+                    }
+                }
+            ]
+        }
+    },
+    "TrafficHistory": {
+        "Range": {
+            "$": 31
+        },
+        "Site": {
+            "$": "www.loveandroad.com"
+        },
+        "Start": {
+            "$": "2019-08-01"
+        },
+        "HistoricalData": {
+            "Data": [
+                {
+                    "Date": {
+                        "$": "2019-08-01"
+                    },
+                    "PageViews": {
+                        "PerMillion": {
+                            "$": 0.03
+                        },
+                        "PerUser": {
+                            "$": 1.0
+                        }
+                    },
+                    "Rank": {
+                        "$": 533258
+                    },
+                    "Reach": {
+                        "PerMillion": {
+                            "$": 1
+                        }
+                    }
+                },
+                {
+                    "Date": {
+                        "$": "2019-08-02"
+                    },
+                    "PageViews": {
+                        "PerMillion": {
+                            "$": 0.3
+                        },
+                        "PerUser": {
+                            "$": 3.0
+                        }
+                    },
+                    "Rank": {
+                        "$": 186238
+                    },
+                    "Reach": {
+                        "PerMillion": {
+                            "$": 4
+                        }
+                    }
+                },
+                {
+                    "Date": {
+                        "$": "2019-08-03"
+                    },
+                    "PageViews": {
+                        "PerMillion": {
+                            "$": 0.05
+                        },
+                        "PerUser": {
+                            "$": 1.0
+                        }
+                    },
+                    "Rank": {
+                        "$": 375525
+                    },
+                    "Reach": {
+                        "PerMillion": {
+                            "$": 2
+                        }
+                    }
+                },
+                {
+                    "Date": {
+                        "$": "2019-08-04"
+                    },
+                    "PageViews": {
+                        "PerMillion": {
+                            "$": 0.03
+                        },
+                        "PerUser": {
+                            "$": 1.0
+                        }
+                    },
+                    "Rank": {
+                        "$": 428596
+                    },
+                    "Reach": {
+                        "PerMillion": {
+                            "$": 1
+                        }
+                    }
+                },
+                {
+                    "Date": {
+                        "$": "2019-08-05"
+                    },
+                    "PageViews": {
+                        "PerMillion": {
+                            "$": 0.2
+                        },
+                        "PerUser": {
+                            "$": 3.0
+                        }
+                    },
+                    "Rank": {
+                        "$": 277678
+                    },
+                    "Reach": {
+                        "PerMillion": {
+                            "$": 3
+                        }
+                    }
+                },
+                {
+                    "Date": {
+                        "$": "2019-08-06"
+                    },
+                    "PageViews": {
+                        "PerMillion": {
+                            "$": 0.09
+                        },
+                        "PerUser": {
+                            "$": 1.0
+                        }
+                    },
+                    "Rank": {
+                        "$": 288640
+                    },
+                    "Reach": {
+                        "PerMillion": {
+                            "$": 4
+                        }
+                    }
+                },
+                {
+                    "Date": {
+                        "$": "2019-08-07"
+                    },
+                    "PageViews": {
+                        "PerMillion": {
+                            "$": 0.03
+                        },
+                        "PerUser": {
+                            "$": 1.0
+                        }
+                    },
+                    "Rank": {
+                        "$": 543572
+                    },
+                    "Reach": {
+                        "PerMillion": {
+                            "$": 1
+                        }
+                    }
+                },
+                {
+                    "Date": {
+                        "$": "2019-08-09"
+                    },
+                    "PageViews": {
+                        "PerMillion": {
+                            "$": 0.01
+                        },
+                        "PerUser": {
+                            "$": 1.0
+                        }
+                    },
+                    "Rank": {
+                        "$": 728905
+                    },
+                    "Reach": {
+                        "PerMillion": {
+                            "$": 0.4
+                        }
+                    }
+                },
+                {
+                    "Date": {
+                        "$": "2019-08-10"
+                    },
+                    "PageViews": {
+                        "PerMillion": {
+                            "$": 0.2
+                        },
+                        "PerUser": {
+                            "$": 1.0
+                        }
+                    },
+                    "Rank": {
+                        "$": 176409
+                    },
+                    "Reach": {
+                        "PerMillion": {
+                            "$": 5
+                        }
+                    }
+                },
+                {
+                    "Date": {
+                        "$": "2019-08-12"
+                    },
+                    "PageViews": {
+                        "PerMillion": {
+                            "$": 0.2
+                        },
+                        "PerUser": {
+                            "$": 1.0
+                        }
+                    },
+                    "Rank": {
+                        "$": 168095
+                    },
+                    "Reach": {
+                        "PerMillion": {
+                            "$": 7
+                        }
+                    }
+                },
+                {
+                    "Date": {
+                        "$": "2019-08-14"
+                    },
+                    "PageViews": {
+                        "PerMillion": {
+                            "$": 0.009
+                        },
+                        "PerUser": {
+                            "$": 1.0
+                        }
+                    },
+                    "Rank": {
+                        "$": 818296
+                    },
+                    "Reach": {
+                        "PerMillion": {
+                            "$": 0.4
+                        }
+                    }
+                },
+                {
+                    "Date": {
+                        "$": "2019-08-15"
+                    },
+                    "PageViews": {
+                        "PerMillion": {
+                            "$": 0.09
+                        },
+                        "PerUser": {
+                            "$": 1.0
+                        }
+                    },
+                    "Rank": {
+                        "$": 309102
+                    },
+                    "Reach": {
+                        "PerMillion": {
+                            "$": 3
+                        }
+                    }
+                },
+                {
+                    "Date": {
+                        "$": "2019-08-18"
+                    },
+                    "PageViews": {
+                        "PerMillion": {
+                            "$": 0.3
+                        },
+                        "PerUser": {
+                            "$": 1.0
+                        }
+                    },
+                    "Rank": {
+                        "$": 103445
+                    },
+                    "Reach": {
+                        "PerMillion": {
+                            "$": 10
+                        }
+                    }
+                },
+                {
+                    "Date": {
+                        "$": "2019-08-19"
+                    },
+                    "PageViews": {
+                        "PerMillion": {
+                            "$": 0.1
+                        },
+                        "PerUser": {
+                            "$": 2.0
+                        }
+                    },
+                    "Rank": {
+                        "$": 280294
+                    },
+                    "Reach": {
+                        "PerMillion": {
+                            "$": 3
+                        }
+                    }
+                },
+                {
+                    "Date": {
+                        "$": "2019-08-20"
+                    },
+                    "PageViews": {
+                        "PerMillion": {
+                            "$": 0.5
+                        },
+                        "PerUser": {
+                            "$": 1.0
+                        }
+                    },
+                    "Rank": {
+                        "$": 74107
+                    },
+                    "Reach": {
+                        "PerMillion": {
+                            "$": 10
+                        }
+                    }
+                },
+                {
+                    "Date": {
+                        "$": "2019-08-21"
+                    },
+                    "PageViews": {
+                        "PerMillion": {
+                            "$": 0.2
+                        },
+                        "PerUser": {
+                            "$": 1.0
+                        }
+                    },
+                    "Rank": {
+                        "$": 150270
+                    },
+                    "Reach": {
+                        "PerMillion": {
+                            "$": 7
+                        }
+                    }
+                },
+                {
+                    "Date": {
+                        "$": "2019-08-22"
+                    },
+                    "PageViews": {
+                        "PerMillion": {
+                            "$": 0.02
+                        },
+                        "PerUser": {
+                            "$": 1.0
+                        }
+                    },
+                    "Rank": {
+                        "$": 635402
+                    },
+                    "Reach": {
+                        "PerMillion": {
+                            "$": 0.9
+                        }
+                    }
+                },
+                {
+                    "Date": {
+                        "$": "2019-08-23"
+                    },
+                    "PageViews": {
+                        "PerMillion": {
+                            "$": 0.02
+                        },
+                        "PerUser": {
+                            "$": 1.0
+                        }
+                    },
+                    "Rank": {
+                        "$": 677817
+                    },
+                    "Reach": {
+                        "PerMillion": {
+                            "$": 0.6
+                        }
+                    }
+                },
+                {
+                    "Date": {
+                        "$": "2019-08-25"
+                    },
+                    "PageViews": {
+                        "PerMillion": {
+                            "$": 0.3
+                        },
+                        "PerUser": {
+                            "$": 2.0
+                        }
+                    },
+                    "Rank": {
+                        "$": 134511
+                    },
+                    "Reach": {
+                        "PerMillion": {
+                            "$": 6
+                        }
+                    }
+                },
+                {
+                    "Date": {
+                        "$": "2019-08-26"
+                    },
+                    "PageViews": {
+                        "PerMillion": {
+                            "$": 0.1
+                        },
+                        "PerUser": {
+                            "$": 1.0
+                        }
+                    },
+                    "Rank": {
+                        "$": 209025
+                    },
+                    "Reach": {
+                        "PerMillion": {
+                            "$": 5
+                        }
+                    }
+                },
+                {
+                    "Date": {
+                        "$": "2019-08-27"
+                    },
+                    "PageViews": {
+                        "PerMillion": {
+                            "$": 0.07
+                        },
+                        "PerUser": {
+                            "$": 7.0
+                        }
+                    },
+                    "Rank": {
+                        "$": 697860
+                    },
+                    "Reach": {
+                        "PerMillion": {
+                            "$": 0.4
+                        }
+                    }
+                },
+                {
+                    "Date": {
+                        "$": "2019-08-28"
+                    },
+                    "PageViews": {
+                        "PerMillion": {
+                            "$": 0.2
+                        },
+                        "PerUser": {
+                            "$": 2.0
+                        }
+                    },
+                    "Rank": {
+                        "$": 161090
+                    },
+                    "Reach": {
+                        "PerMillion": {
+                            "$": 6
+                        }
+                    }
+                },
+                {
+                    "Date": {
+                        "$": "2019-08-29"
+                    },
+                    "PageViews": {
+                        "PerMillion": {
+                            "$": 0.2
+                        },
+                        "PerUser": {
+                            "$": 3.0
+                        }
+                    },
+                    "Rank": {
+                        "$": 238665
+                    },
+                    "Reach": {
+                        "PerMillion": {
+                            "$": 3
+                        }
+                    }
+                },
+                {
+                    "Date": {
+                        "$": "2019-08-30"
+                    },
+                    "PageViews": {
+                        "PerMillion": {
+                            "$": 0.2
+                        },
+                        "PerUser": {
+                            "$": 1.0
+                        }
+                    },
+                    "Rank": {
+                        "$": 149241
+                    },
+                    "Reach": {
+                        "PerMillion": {
+                            "$": 7
+                        }
+                    }
+                },
+                {
+                    "Date": {
+                        "$": "2019-08-31"
+                    },
+                    "PageViews": {
+                        "PerMillion": {
+                            "$": 0.08
+                        },
+                        "PerUser": {
+                            "$": 2.0
+                        }
+                    },
+                    "Rank": {
+                        "$": 325964
+                    },
+                    "Reach": {
+                        "PerMillion": {
+                            "$": 1
+                        }
+                    }
+                }
+            ]
+        }
+    }
+}
