@@ -55,19 +55,19 @@ Download the zip file by following their instructions.
 
 ## Data Collection Pipeline
 1. data-collection-blogger-urls (with para processing)
-Allows user to perform google search and extract text from each website of the search results. Data will be output in data-collection-pipeline folder
+- Allows user to perform google search and extract text from each website of the search results. Data will be output in data-collection-pipeline folder
 
 2. data-collection-blogger-urls (final)
-Final version of data collection for blogger urls, without text extraction from domains
+- Final version of data collection for blogger urls, without text extraction from domains
 
 3. data-collection-awis
-Calls the AWIS API to retrieve website metrics
+- Calls the AWIS API to retrieve website metrics
 
 4. reverse-entity-mapping
-Prepares the mapping of entity for automated labelling of data
+- Prepares the mapping of entity for automated labelling of data
 
 5. scraping.sh
-Maps the entity to the POI, for example, Little India is mapped as Attractions, Cultural.
+- Maps the entity to the POI, for example, Little India is mapped as Attractions, Cultural.
 
 
 ## Procedure
